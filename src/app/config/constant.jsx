@@ -1,4 +1,4 @@
-export const apiUrl="https://medipedia-web-api.desired-techs.com";
+export const apiUrl="";
 
 export const profiledata= async (id)=>{
     try {
